@@ -79,7 +79,7 @@ public class Sobre extends JDialog {
 		JButton btnGitHub = new JButton("");
 		btnGitHub.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
-				link("https://github.com/LucianoCosta92");
+				link("https://github.com/LucianoCosta92/BuscarCEP");
 			}
 		});
 		btnGitHub.setIcon(new ImageIcon(Sobre.class.getResource("/img/github.png")));

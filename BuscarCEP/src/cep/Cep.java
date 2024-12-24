@@ -157,7 +157,7 @@ public class Cep extends JFrame {
 		btnSobre.setBorder(null);
 		btnSobre.setBackground(SystemColor.control);
 		btnSobre.setBounds(new Rectangle(0, 0, 48, 48));
-		btnSobre.setBounds(452, 12, 48, 41);
+		btnSobre.setBounds(452, 12, 48, 48);
 		contentPane.add(btnSobre);
 
 		// validação do campo txtCep
